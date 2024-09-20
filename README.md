@@ -17,5 +17,3 @@ A simple scrolling website that demonstrates smooth transitions and animations w
 - CSS3
 - JavaScript
 
-### [Live Demo](https://basmasalim.github.io/Scrolling-Website/)
-
